@@ -1,8 +1,8 @@
 shop_name = "coffee shop"
-drinks_sold_number = 120
-price_per_drink = 3
-pastries_sold_number = 80
-price_per_pastry = 4
+drinks_sold_number = 176444
+price_per_drink = 3.05
+pastries_sold_number = 23214
+price_per_pastry = 3.55
 drink_revenue = drinks_sold_number * price_per_drink
 pastry_revenue = pastries_sold_number * price_per_pastry
 total_revenue = drink_revenue + pastry_revenue
@@ -23,4 +23,3 @@ elif drink_revenue==pastry_revenue:
     print("The contributions of beverages and pastries are the same.")
 else:
     print("Pastries contribute more than drinks")
-
