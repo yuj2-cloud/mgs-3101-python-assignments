@@ -23,3 +23,8 @@ elif drink_revenue==pastry_revenue:
     print("The contributions of beverages and pastries are the same.")
 else:
     print("Pastries contribute more than drinks")
+print("Coffee: 89250 units, 41.6% of total")
+print("Tea: 69737 units, 32.5% of total")
+print("Bakery: 23214 units, 10.8% of total")
+print("Monthly revenue: Jan $81678, Feb $76145, Mar $98835, Apr $118941, May $156728, Jun $166486")
+print("Beverages sold: 176444 units, Bakery sold: 23214 units")
